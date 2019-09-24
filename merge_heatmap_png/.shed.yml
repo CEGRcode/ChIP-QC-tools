@@ -6,6 +6,6 @@ long_description: Accepts two heatmaps (.png) files, usually generated from sens
 remote_repository_url: https://github.com/galaxyproject/tools-iuc/tree/master/tools/merge_heatmap_png
 type: unrestricted
 categories:
-    - Visualization
-    - Genomic Interval Operations
-    - SAM
+  - Visualization
+  - Genomic Interval Operations
+  - SAM
